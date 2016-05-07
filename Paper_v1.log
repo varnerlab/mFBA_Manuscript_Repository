@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 MAY 2016 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 MAY 2016 14:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -886,13 +886,10 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
 
 ] [15] [16] [17
 
-] (./Paper_v1.bbl
+] (./Paper_v1.bbl [18
 
-Package natbib Warning: Empty `thebibliography' environment on input line 16.
-
-) [18
-
-] <./Figures/Figure1_POC_Schematic.pdf, id=78, 5793.645pt x 4579.1075pt>
+] [19] [20] [21]) [22]
+<./Figures/Figure1_POC_Schematic.pdf, id=90, 5793.645pt x 4579.1075pt>
 File: ./Figures/Figure1_POC_Schematic.pdf Graphic file (type pdf)
 
 <use ./Figures/Figure1_POC_Schematic.pdf>
@@ -901,21 +898,21 @@ Package pdftex.def Info: ./Figures/Figure1_POC_Schematic.pdf used on input line
 (pdftex.def)             Requested size: 469.75502pt x 371.2271pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 351.
- [19
+ [23
 
 
  <./Figures/Figure1_POC_Schematic.pdf>] <./Figures/Figure2_POC_Nogrowth.pdf, id
-=97, 1664.2175pt x 1276.77pt>
+=110, 1664.2175pt x 1276.77pt>
 File: ./Figures/Figure2_POC_Nogrowth.pdf Graphic file (type pdf)
 
 <use ./Figures/Figure2_POC_Nogrowth.pdf>
 Package pdftex.def Info: ./Figures/Figure2_POC_Nogrowth.pdf used on input line 
 357.
 (pdftex.def)             Requested size: 469.75502pt x 360.39597pt.
- [20
+ [24
 
- <./Figures/Figure2_POC_Nogrowth.pdf>] <./Figures/Figure3_POC_Growth.pdf, id=13
-5, 1547.7825pt x 1788.6825pt>
+ <./Figures/Figure2_POC_Nogrowth.pdf>] <./Figures/Figure3_POC_Growth.pdf, id=14
+8, 1547.7825pt x 1788.6825pt>
 File: ./Figures/Figure3_POC_Growth.pdf Graphic file (type pdf)
 
 <use ./Figures/Figure3_POC_Growth.pdf>
@@ -929,14 +926,14 @@ LaTeX Warning: Float too large for page by 16.429pt on input line 368.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <./Figures/Figure3_POC_Growth.pdf>]
-<./Figures/Figure4_Ecoli.pdf, id=195, 4771.8275pt x 4225.7875pt>
+[25 <./Figures/Figure3_POC_Growth.pdf>]
+<./Figures/Figure4_Ecoli.pdf, id=208, 4771.8275pt x 4225.7875pt>
 File: ./Figures/Figure4_Ecoli.pdf Graphic file (type pdf)
 
 <use ./Figures/Figure4_Ecoli.pdf>
 Package pdftex.def Info: ./Figures/Figure4_Ecoli.pdf used on input line 373.
 (pdftex.def)             Requested size: 469.75502pt x 415.96205pt.
- [22
+ [26
 
 
  <./Figures/Figure4_Ecoli.pdf>]
@@ -946,13 +943,13 @@ Package pdftex.def Info: ./Figures/Figure4_Ecoli.pdf used on input line 373.
 ### semi simple group (level 1) entered at line 50 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 7375 strings out of 493089
- 106402 string characters out of 6134842
- 195987 words of memory out of 5000000
- 10691 multiletter control sequences out of 15000+600000
+ 7539 strings out of 493089
+ 110542 string characters out of 6134842
+ 196618 words of memory out of 5000000
+ 10815 multiletter control sequences out of 15000+600000
  27082 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,8n,38p,2686b,1006s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,38p,2717b,1011s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -969,10 +966,10 @@ ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/t
 exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Paper_v1.pdf (24 pages, 880362 bytes).
+Output written on Paper_v1.pdf (28 pages, 889006 bytes).
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
+ 297 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

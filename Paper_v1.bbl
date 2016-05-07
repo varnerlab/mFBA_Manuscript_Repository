@@ -1,4 +1,4 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -12,5 +12,255 @@
   \begin{quotation}\noindent\textsc{Key:} #1\\
   \textsc{Annotation:}\ #2\end{quotation}}
 \providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{bailey1998mathematical}
+Bailey JE (1998) Mathematical modeling and analysis in biochemical engineering:
+  past accomplishments and future opportunities.
+\newblock Biotechnology progress 14: 8--20.
+\bibAnnoteFile{bailey1998mathematical}
+
+\bibitem{castellanos2004modular}
+Castellanos M, Wilson DB, Shuler ML (2004) A modular minimal cell model: purine
+  and pyrimidine transport and metabolism.
+\newblock Proceedings of the National Academy of Sciences of the United States
+  of America 101: 6681--6686.
+\bibAnnoteFile{castellanos2004modular}
+
+\bibitem{fell1997understanding}
+Fell D, Cornish-Bowden A (1997) Understanding the control of metabolism,
+  volume~2.
+\newblock Portland press London.
+\bibAnnoteFile{fell1997understanding}
+
+\bibitem{domach1984computer}
+Domach M, Leung S, Cahn R, Cocks G, Shuler M (1984) Computer model for
+  glucose-limited growth of a single cell of escherichia coli b/r-a.
+\newblock Biotechnology and bioengineering 26: 203--216.
+\bibAnnoteFile{domach1984computer}
+
+\bibitem{barkal1997robustness}
+Barkal N, Leibler S (1997) Robustness in simple biochemical networks.
+\newblock Nature 387: 913--917.
+\bibAnnoteFile{barkal1997robustness}
+
+\bibitem{liao1993modelling}
+Liao JC (1993) Modelling and analysis of metabolic pathways.
+\newblock Current opinion in biotechnology 4: 211--216.
+\bibAnnoteFile{liao1993modelling}
+
+\bibitem{novak1999finishing}
+Nov{\'a}k B, T{\'o}th A, Csik{\'a}sz-Nagy A, Gy{\"o}rffy B, Tyson JJ, et~al.
+  (1999) Finishing the cell cycle.
+\newblock Journal of Theoretical Biology 199: 223--233.
+\bibAnnoteFile{novak1999finishing}
+
+\bibitem{kompala1986investigation}
+Kompala DS, Ramkrishna D, Jansen NB, Tsao GT (1986) Investigation of bacterial
+  growth on mixed substrates: experimental evaluation of cybernetic models.
+\newblock Biotechnology and Bioengineering 28: 1044--1055.
+\bibAnnoteFile{kompala1986investigation}
+
+\bibitem{palsson1987reducing}
+Palsson B, Joshi A, Ozturk S (1987) Reducing complexity in metabolic networks:
+  making metabolic meshes manageable.
+\newblock In: Federation proceedings. volume~46, pp. 2485--2489.
+\bibAnnoteFile{palsson1987reducing}
+
+\bibitem{conrado2007stochastic}
+Conrado RJ, Mansell TJ, Varner JD, DeLisa MP (2007) Stochastic
+  reaction--diffusion simulation of enzyme compartmentalization reveals
+  improved catalytic efficiency for a synthetic metabolic pathway.
+\newblock Metabolic engineering 9: 355--363.
+\bibAnnoteFile{conrado2007stochastic}
+
+\bibitem{wayman2015dynamic}
+Wayman JA, Sagar A, Varner JD (2015) Dynamic modeling of cell-free biochemical
+  networks using effective kinetic models.
+\newblock Processes 3: 138--160.
+\bibAnnoteFile{wayman2015dynamic}
+
+\bibitem{sagar2015dynamic}
+Sagar A, Varner JD (2015) Dynamic modeling of the human coagulation cascade
+  using reduced order effective kinetic models.
+\newblock Processes 3: 178--203.
+\bibAnnoteFile{sagar2015dynamic}
+
+\bibitem{lewis2012constraining}
+Lewis NE, Nagarajan H, Palsson BO (2012) Constraining the metabolic
+  genotype--phenotype relationship using a phylogeny of in silico methods.
+\newblock Nature Reviews Microbiology 10: 291--305.
+\bibAnnoteFile{lewis2012constraining}
+
+\bibitem{edwards2000escherichia}
+Edwards J, Palsson B (2000) The escherichia coli mg1655 in silico metabolic
+  genotype: its definition, characteristics, and capabilities.
+\newblock Proceedings of the National Academy of Sciences 97: 5528--5533.
+\bibAnnoteFile{edwards2000escherichia}
+
+\bibitem{feist2009reconstruction}
+Feist AM, Herrg{\aa}rd MJ, Thiele I, Reed JL, Palsson B{\O} (2009)
+  Reconstruction of biochemical networks in microorganisms.
+\newblock Nature Reviews Microbiology 7: 129--143.
+\bibAnnoteFile{feist2009reconstruction}
+
+\bibitem{feist2007genome}
+Feist AM, Henry CS, Reed JL, Krummenacker M, Joyce AR, et~al. (2007) A
+  genome-scale metabolic reconstruction for escherichia coli k-12 mg1655 that
+  accounts for 1260 orfs and thermodynamic information.
+\newblock Molecular systems biology 3.
+\bibAnnoteFile{feist2007genome}
+
+\bibitem{oh2007genome}
+Oh YK, Palsson BO, Park SM, Schilling CH, Mahadevan R (2007) Genome-scale
+  reconstruction of metabolic network in bacillus subtilis based on
+  high-throughput phenotyping and gene essentiality data.
+\newblock Journal of Biological Chemistry 282: 28791--28799.
+\bibAnnoteFile{oh2007genome}
+
+\bibitem{duarte2007global}
+Duarte NC, Becker SA, Jamshidi N, Thiele I, Mo ML, et~al. (2007) Global
+  reconstruction of the human metabolic network based on genomic and bibliomic
+  data.
+\newblock Proceedings of the National Academy of Sciences 104: 1777--1782.
+\bibAnnoteFile{duarte2007global}
+
+\bibitem{thiele2013community}
+Thiele I, Swainston N, Fleming RM, Hoppe A, Sahoo S, et~al. (2013) A
+  community-driven global reconstruction of human metabolism.
+\newblock Nature biotechnology 31: 419--425.
+\bibAnnoteFile{thiele2013community}
+
+\bibitem{mahadevan2002dynamic}
+Mahadevan R, Edwards JS, Doyle FJ (2002) Dynamic flux balance analysis of
+  diauxic growth in escherichia coli.
+\newblock Biophysical journal 83: 1331--1340.
+\bibAnnoteFile{mahadevan2002dynamic}
+
+\bibitem{burgard2003optimization}
+Burgard AP, Maranas CD (2003) Optimization-based framework for inferring and
+  testing hypothesized metabolic objective functions.
+\newblock Biotechnology and bioengineering 82: 670--677.
+\bibAnnoteFile{burgard2003optimization}
+
+\bibitem{edwards2002characterizing}
+Edwards JS, Ramakrishna R, Palsson BO (2002) Characterizing the metabolic
+  phenotype: a phenotype phase plane analysis.
+\newblock Biotechnology and bioengineering 77: 27--36.
+\bibAnnoteFile{edwards2002characterizing}
+
+\bibitem{van2002stoichiometric}
+Van~Dien SJ, Lidstrom ME (2002) Stoichiometric model for evaluating the
+  metabolic capabilities of the facultative methylotroph methylobacterium
+  extorquens am1, with application to reconstruction of c3 and c4 metabolism.
+\newblock Biotechnology and bioengineering 78: 296--312.
+\bibAnnoteFile{van2002stoichiometric}
+
+\bibitem{ramakrishna2001flux}
+Ramakrishna R, Edwards JS, McCulloch A, Palsson BO (2001) Flux-balance analysis
+  of mitochondrial energy metabolism: consequences of systemic stoichiometric
+  constraints.
+\newblock American Journal of Physiology-Regulatory, Integrative and
+  Comparative Physiology 280: R695--R704.
+\bibAnnoteFile{ramakrishna2001flux}
+
+\bibitem{varma1993biochemical}
+Varma A, Boesch BW, Palsson BO (1993) Biochemical production capabilities of
+  escherichia coli.
+\newblock Biotechnology and bioengineering 42: 59--73.
+\bibAnnoteFile{varma1993biochemical}
+
+\bibitem{schilling2002genome}
+Schilling CH, Covert MW, Famili I, Church GM, Edwards JS, et~al. (2002)
+  Genome-scale metabolic model of helicobacter pylori 26695.
+\newblock Journal of bacteriology 184: 4582--4593.
+\bibAnnoteFile{schilling2002genome}
+
+\bibitem{edwards2001silico}
+Edwards JS, Ibarra RU, Palsson BO (2001) In silico predictions of escherichia
+  coli metabolic capabilities are consistent with experimental data.
+\newblock Nature biotechnology 19: 125--130.
+\bibAnnoteFile{edwards2001silico}
+
+\bibitem{ibarra2002escherichia}
+Ibarra RU, Edwards JS, Palsson BO (2002) Escherichia coli k-12 undergoes
+  adaptive evolution to achieve in silico predicted optimal growth.
+\newblock Nature 420: 186--189.
+\bibAnnoteFile{ibarra2002escherichia}
+
+\bibitem{covert2002transcriptional}
+Covert MW, Palsson B{\O} (2002) Transcriptional regulation in constraints-based
+  metabolic models of escherichia coli.
+\newblock Journal of Biological Chemistry 277: 28058--28064.
+\bibAnnoteFile{covert2002transcriptional}
+
+\bibitem{edwards2000robustness}
+Edwards JS, Palsson BO (2000) Robustness analysis of the escherichiacoli
+  metabolic network.
+\newblock Biotechnology Progress 16: 927--939.
+\bibAnnoteFile{edwards2000robustness}
+
+\bibitem{kauffman2003advances}
+Kauffman KJ, Prakash P, Edwards JS (2003) Advances in flux balance analysis.
+\newblock Current opinion in biotechnology 14: 491--496.
+\bibAnnoteFile{kauffman2003advances}
+
+\bibitem{thiele2009genome}
+Thiele I, Jamshidi N, Fleming RM, Palsson B{\O} (2009) Genome-scale
+  reconstruction of escherichia coli's transcriptional and translational
+  machinery: a knowledge base, its mathematical formulation, and its functional
+  characterization.
+\newblock PLoS Comput Biol 5: e1000312.
+\bibAnnoteFile{thiele2009genome}
+
+\bibitem{beg2007intracellular}
+Beg QK, Vazquez A, Ernst J, de~Menezes MA, Bar-Joseph Z, et~al. (2007)
+  Intracellular crowding defines the mode and sequence of substrate uptake by
+  escherichia coli and constrains its metabolic activity.
+\newblock Proceedings of the National Academy of Sciences 104: 12663--12668.
+\bibAnnoteFile{beg2007intracellular}
+
+\bibitem{shlomi2011genome}
+Shlomi T, Benyamini T, Gottlieb E, Sharan R, Ruppin E (2011) Genome-scale
+  metabolic modeling elucidates the role of proliferative adaptation in causing
+  the warburg effect.
+\newblock PLoS Comput Biol 7: e1002018.
+\bibAnnoteFile{shlomi2011genome}
+
+\bibitem{zhuang2011economics}
+Zhuang K, Vemuri GN, Mahadevan R (2011) Economics of membrane occupancy and
+  respiro-fermentation.
+\newblock Molecular systems biology 7: 500.
+\bibAnnoteFile{zhuang2011economics}
+
+\bibitem{varma1994stoichiometric}
+Varma A, Palsson BO (1994) Stoichiometric flux balance models quantitatively
+  predict growth and metabolic by-product secretion in wild-type escherichia
+  coli w3110.
+\newblock Applied and environmental microbiology 60: 3724--3731.
+\bibAnnoteFile{varma1994stoichiometric}
+
+\bibitem{bennett2009absolute}
+Bennett BD, Kimball EH, Gao M, Osterhout R, Van~Dien SJ, et~al. (2009) Absolute
+  metabolite concentrations and implied enzyme active site occupancy in
+  escherichia coli.
+\newblock Nature chemical biology 5: 593--599.
+\bibAnnoteFile{bennett2009absolute}
+
+\bibitem{heijnen2010impact}
+Heijnen J (2010) Impact of thermodynamic principles in systems biology.
+\newblock In: Biosystems Engineering II, Springer. pp. 139--162.
+\bibAnnoteFile{heijnen2010impact}
+
+\bibitem{machta2013parameter}
+Machta BB, Chachra R, Transtrum MK, Sethna JP (2013) Parameter space
+  compression underlies emergent theories and predictive models.
+\newblock Science 342: 604--607.
+\bibAnnoteFile{machta2013parameter}
+
+\bibitem{heijnen2005approximative}
+Heijnen JJ (2005) Approximative kinetic formats used in metabolic network
+  modeling.
+\newblock Biotechnology and bioengineering 91: 534--545.
+\bibAnnoteFile{heijnen2005approximative}
 
 \end{thebibliography}
