@@ -254,7 +254,7 @@ The Modified Flux Balance Analysis (mFBA) is new method created for the study of
 
 \begin{equation}\label{eq:MB1}
 \begin{aligned}
-\frac{dx}{dt}= \mathcal{S}* v- \mu x=b \\
+\frac{dx}{dt}= \mathcal{S}* v \\
 \end{aligned}
 \end{equation}
 
@@ -266,20 +266,20 @@ The Modified Flux Balance Analysis (mFBA) is new method created for the study of
 
 \begin{equation}\label{eq:MB3}
 \begin{aligned}
-&Extracellular Species: x_{t+1} = x_t + b\Delta t - x_t \mu \Delta t\\
+&Extracellular Species: x_{t+1} = x_t + b\Delta t \mathbf{X}\\
 \end{aligned}
 \end{equation}
 
 
 
-In equation 2, $\mathcal{S}$ is the stoichiometric matrix with $m$ species by $n$ reactions, $v$ is a flux vector of each reaction, $\mu$ denotes the growth rate and $b$ is a vector of change in species with respect to time. In the discretized mass balances, \textbf{Equations} \eqref{eq:MB2} and \eqref{eq:MB3}, $t$ is the time, $\mu$ is the growth rate, and $x$ denotes the species concentration. For traditional FBA, the intracellular species (IS) were assumed to be at quasi-steady-state (QSS), making the species constraint, $b=0$ . However, for the mFBA, we assumed an initial concentration for intracellular species concentration based on literature measurements [41,42] and did not assume QSS by allowing intracellular metabolites to accumulate and deplete within a physiological range. By incorporating the lower and upper limit the species concentration and dilution due to growth, the species constraints implemented in our model is shown in \textbf{Equation} \eqref{eq:SBA}. 
+In equation 2, $\mathcal{S}$ is the stoichiometric matrix with $m$ species by $n$ reactions, $v$ is a flux vector of each reaction, $\mu$ denotes the growth rate and $b$ is a vector of change in species with respect to time. In the discretized mass balances, \textbf{Equations} \eqref{eq:MB2} and \eqref{eq:MB3}, $t$ is the time, $\mu$ is the growth rate, $x$ denotes the species concentration, and $\mathbf{X}$ is the cellmass. For traditional FBA, the intracellular species (IS) were assumed to be at quasi-steady-state (QSS), making the species constraint, $b=0$ . However, for the mFBA, we assumed an initial concentration for intracellular species concentration based on literature measurements [41,42] and did not assume QSS by allowing intracellular metabolites to accumulate and deplete within a physiological range. By incorporating the lower and upper limit the species concentration and dilution due to growth, the species constraints implemented in our model is shown in \textbf{Equation} \eqref{eq:SBA}. 
 
 \begin{equation}\label{eq:SBA}
 \begin{aligned}
 LB - x(1-\mathbf{dsa}\mu)\le S*v \le UB - x(1-\mathbf{dsa}\mu)
 \end{aligned}
 \end{equation}
-%LB-x(1-dsa \Mu ) 
+
 
 In \textbf{Equation} 4  and  are vectors of lower and upper limits of each species, while  represents the dilution selection array, a Boolean vector that takes determines whether a species is diluted due to growth, ie. 0 for extracellular species that are not diluted and 1 for intracellular species that are.
 
